@@ -16,7 +16,7 @@ The document is laid out in a question and answer format, my goal is to provide 
 
 ## Hang on, I disagree with you OR you're missing a really important question.
 
-Fantastic! I don't claim to have definitive answers on anything and in first writing, this is primarily based on my experience and limited knowledge, I would love to receive feedback and any suggestions and credit you accordingly, please contact me at [mikeyjc@gmail.com](mailto://mikeyjc@gmail.com?Subject=Common%20GA%20panel%20questions) with "GA Common panel questions" in the subject.
+I don't claim to have definitive answers on anything and in first writing, this is primarily based on my experience and limited knowledge, I would love to receive feedback and any suggestions and credit you accordingly. Please use Github issues to start a discussion or ask additional questions that can be added to the document.
 
 # The questions:
 
@@ -34,7 +34,12 @@ While you are a learning you will get a feel for which work comes more naturally
 
 ### How should I stay up to date with technology?
 
-???
+There are a lot of resources available you can use to stay up to date with current trends in technology. Sometimes the best thing to do will be to speak to other developers you know and have confidence in, that said, here are some more proactive sources:
+
+- [JavaScript e-mail newsletter](https://javascriptweekly.com/)
+- [React status e-mail newsletter](https://react.statuscode.com/)
+- [Podcasts such as Syntax.fm](https://syntax.fm/)
+- [Attend (or e-attend) relevant conferences such as NDC Sydney](https://ndcsydney.com/)
 
 ### How much time should I spend on learning/other projects once I start working?
 
@@ -52,18 +57,32 @@ If you truly believe that you have done enough in the above two suggestions, the
 
 ### How should I prepare for my first tech interviews?
 
-
+Make sure you spend a good amount of time reading about 
 
 ### What sort of questions should I ask in an interview?
 
-Your goal in the interview should be to understand what you're going to get out of the job before ever working there, the following questions should be helpful:
+Ideally you will get to speak to a member of the team you would be going in to. Your goal in the interview should be to understand what you're going to get out of the job before ever working there, the following questions should be helpful:
 
 - What would be your expectations for me in my first few months here?
-- What things would I 
 - Will I have access to mentors to help me develop my skills?
 - What is the process like when things don't go as planned? (You're trying to find out what happens when things go wrong)
+- What size is the team I'm going in to?
+- What range of experience is there across the team?
 - How does the team celebrate wins? e.g. after a big release
+- Is there a formal process for career advancement? (this question needs to be asked carefully)
+- Does the team have any team social events? (e.g. lunches/dinners/drinks)
+
+Word these however you like, they will be contextual based on the job description.
+- Ask about remote conditions
+- If you are interested in any specific technologies, ask if you will get the opportunity to use them or introduce them at the company.
+- If it's something that will be important to you, feel free to ask about diversity in the company.
+
+Although you are trying to sell yourself to a company to employ you, it is just as important for them to sell themselves to you as the right place to be. If you are unsure, discuss the feedback with your outcomes producer.
 
 ### How do I know if a company is a good fit?
 
 # General advice
+
+- What was the best thing in the course.
+- What would you change about how you did the course?
+- Do you feel ready for the job at the end of the course.
